@@ -1,8 +1,8 @@
 ## Oii ! Eu Sou o Johnyy ;)
 <div>
   <a href="https://github.com/johnywkr">
-  <img width ="400px" height = "180em" src="https://github-readme-stats.vercel.app/api?username=johnywkr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width ="400px" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnywkr&layout=compact&langs_count=7&theme=radical"/>
+  <img width ="400px" height = "180em" src="https://github-readme-stats.vercel.app/api?username=johnywkr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width ="400px" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnywkr&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Johny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,4 +29,16 @@
   
  
 </div>
+
+  ##
+
+
+
+
+
+
+
+
+
+
 
