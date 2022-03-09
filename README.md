@@ -12,7 +12,7 @@
   <img align="center" alt="Johny-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <!-- //<img align="center" alt="Johny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">// -->
   <!-- //<img align="center" alt="Johny-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">// -->
-  <img align="center" alt="Johny-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  //<img align="center" alt="Johny-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   //<img align="center" alt="Johny-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   //<img  align="right" alt="Johny-Gohan" width="250em" src="http://images6.fanpop.com/image/photos/34500000/SSJ2-Gohan-Gif-rileyferguson-34521952-853-480.gif">
 </div>
