@@ -14,7 +14,7 @@
   //<img align="center" alt="Johny-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   //<img align="center" alt="Johny-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   //<img align="center" alt="Johny-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  //<img align="center" alt="Johny-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+  //<img align="center" alt="Johny-Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
   <img  align="right" alt="Johny-Gohan" width="250em" src="http://images6.fanpop.com/image/photos/34500000/SSJ2-Gohan-Gif-rileyferguson-34521952-853-480.gif">
 </div>
   
